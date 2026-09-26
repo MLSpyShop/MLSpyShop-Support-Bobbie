@@ -1,0 +1,6 @@
+{
+  "name": "Bobbie - Marie Landry Spy Shop AI Support",
+  "description": "Live web-grounded AI support chatbot for MarieLandrySpyShop.com, assisting clients, visitors, and staff with surveillance gear, OSINT, and ethical tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
